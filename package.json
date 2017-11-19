@@ -6,6 +6,7 @@
   "scripts": {
     "test": "jest"
   },
+  "git repository": "https://github.com/trevwaddell/common-ui-utils",
   "author": "Trevor Waddell <trevwaddell@gmail.com>",
   "license": "MIT"
 }
