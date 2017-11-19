@@ -1,0 +1,11 @@
+{
+  "name": "common-ui-utils",
+  "version": "1.0.0",
+  "description": "Utility functions for common ui needs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Trevor Waddell <trevwaddell@gmail.com>",
+  "license": "MIT"
+}
